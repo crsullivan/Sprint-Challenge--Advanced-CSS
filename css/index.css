@@ -191,6 +191,7 @@ footer {
 .midPic {
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 .home .intro h2 {
   padding: 15px;
@@ -254,12 +255,4 @@ footer {
   width: 100%;
   height: auto;
   border-radius: 10px;
-}
-@media (max-width: 500px) {
-  .sky {
-    display: hidden;
-  }
-  .launch {
-    display: hidden;
-  }
 }
