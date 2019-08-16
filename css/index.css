@@ -234,6 +234,18 @@ footer {
 .home .walk .walk-text p {
   margin-bottom: 26px;
 }
+.home .walk .walk-text .btn {
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+  background: darkslategrey;
+  color: white;
+  border-radius: 6px;
+  padding: 1% 5%;
+}
+.home .walk .walk-text .btn:hover {
+  background-color: white;
+  color: darkslategrey;
+}
 .home .walk .walk-img {
   width: 46%;
   margin-left: 4%;
